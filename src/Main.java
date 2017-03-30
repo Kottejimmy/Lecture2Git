@@ -4,5 +4,7 @@ public class Main {
         System.out.println("Hello World!");
         System.out.println("Hejsan Världen");
         System.out.println("From test branch");
+        System.out.println("from master branch");
+
     }
 }
